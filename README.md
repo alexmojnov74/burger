@@ -27,4 +27,4 @@ The link below will give you direct access to Eat-Da-Burger web application.
 
 ## Author
 
-* **Alex Mojnov** - *Node/Express/Handlebars* - [Alex Mojnov Eat-Da-Burger Repo](https://github.com/alexmojnov74/burger)
+* **Alex Mojnov** - *Node/Express/Handlebars* - [Alex Mojnov Professional Portfolio](https://www.alexmojnov.com)
