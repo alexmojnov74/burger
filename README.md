@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/GrissomErick/Eat-Da-Burger/blob/master/public/assets/img/background?raw=true" alt="logo"></img>
+<img src="https://github.com/GrissomErick/Eat-Da-Burger/blob/master/public/assets/img/background.img" alt="logo"></img>
 </div>
 
 # Eat-Da-Burger
