@@ -1,0 +1,86 @@
+.jumb {
+    background-image: url("/assets/img/background.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: auto;
+    margin-top: 20px;
+    border: 2px solid #5cb85c;
+    background-color: transparent !important;
+    height: 400px;
+    box-shadow: 3px 3px 15px grey;
+}
+
+.jumbotron>h1 {
+    font-family: 'Berkshire Swash', cursive;
+    text-shadow: 3px 3px 8px grey;
+
+}
+
+.jumbotron>p {
+    font-family: 'Miriam Libre', sans-serif;
+    margin-left: 6%;
+}
+
+.jumbotron>h2 {
+    font-family: 'Miriam Libre', sans-serif;
+}
+
+#newburger {
+    border-radius: 5px;
+    width: 40%;
+    box-shadow: 3px 3px 5px grey;
+}
+
+#newburger:hover {
+    background-color: #f8f7a8;
+    border: 1px solid #5cb85c;
+}
+
+#color-override {
+    color: rgb(185, 7, 7);
+}
+
+#lefthead {
+    font-family: 'Miriam Libre', sans-serif;
+    background-color: #247924;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton,
+#trashbutton {
+    float: right;
+}
+
+#righthead {
+    font-family: 'Miriam Libre', sans-serif;
+    background-color: #d47f08;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#addburger {
+    width: 40%;
+    font-family: 'Miriam Libre', sans-serif;
+    font-size: 18px;
+    box-shadow: 3px 3px 5px grey;
+}
+
+.panel-body {
+    border: 1px solid #247924;
+    border-radius: 0px 0px 5px 5px;
+    -webkit-border-radius: 0px 0px 5px 5px;
+    -moz-border-radius: 0px 0px 5px 5px;
+    -ms-border-radius: 0px 0px 5px 5px;
+    -o-border-radius: 0px 0px 5px 5px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 0px;
+}
+
+ul {
+    font-family: 'Miriam Libre', sans-serif;
+    font-size: 18px;
+    padding: 15px 0px 0px 15px;
+}
