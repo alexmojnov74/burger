@@ -6,7 +6,7 @@
 Rutgers Coding Boot Camp - Eat-Da-Burger - Assignment #14 (Node, Express, Handlebars)
  <p></p>
  
-**Project Description** - Eat-Da-Burger is a full-stack web application that ??.
+**Project Description** - Eat-Da-Burger is a full-stack web application utilizing HTML/CSS/JavaScript/Node.JS/MySQL.
 
 ## Application Heroku Link
 The link below will give you direct access to Eat-Da-Burger web application.
